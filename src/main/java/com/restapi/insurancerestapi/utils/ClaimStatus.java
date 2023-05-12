@@ -1,5 +1,5 @@
 package com.restapi.insurancerestapi.utils;
 
 public enum ClaimStatus {
-    APPROVED, REJECTED, DETAILS_REQUIRED;
+    APPROVED, REJECTED, DETAILS_REQUIRED,ON_HOLD;
 }
