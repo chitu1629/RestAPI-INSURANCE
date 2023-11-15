@@ -1,3 +1,4 @@
+#sample
 FROM maven:3.8.6-openjdk-18-slim AS build
 WORKDIR /home/app
 
